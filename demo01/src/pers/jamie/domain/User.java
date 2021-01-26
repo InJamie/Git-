@@ -1,5 +1,5 @@
 package pers.jamie.domain;
-
+//添加一行备注
 public class User {
     private String name;
     private int age;
